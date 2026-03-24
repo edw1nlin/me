@@ -29,6 +29,6 @@ latest_posts:
 
 I am currently completing a B.A. in Philosophy at The Chinese University of Hong Kong. My academic work centers on epistemology and ethics, and I have also pursued intensive study in metaphysics, logic, philosophy of mind, and philosophical issues in AI through exchange and seminar programs.
 
-Outside of philosophy, I spend most of my time thinking, watching and reading about the [Rams](https://www.therams.com),the [Thunder](https://www.nba.com/thunder/), the [Irish](https://fightingirish.com/sports/football/) and [City](https://www.mancity.com).
+Outside of philosophy, I spend most of my time thinking, watching and reading about the [Rams](https://www.therams.com), the [Thunder](https://www.nba.com/thunder/), the [Irish](https://fightingirish.com/sports/football/) and [City](https://www.mancity.com).
 
 Feel Free to get in touch:)
