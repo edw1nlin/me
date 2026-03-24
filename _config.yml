@@ -669,3 +669,16 @@ jsonresume:
   - languages
   - interests
   - references
+
+  exclude:
+  - _posts
+  - _pages/blog.md
+  - _pages/dropdown.md
+  - _layouts/archive.liquid 
+  - _plugins/external-posts.rb
+  -  _news 
+  - _pages/repositories.md
+  -  _bibliography
+  
+
+  
