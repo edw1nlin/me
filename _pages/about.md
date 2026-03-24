@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Philosophy MA at Texas Tech University</a>
 
 profile:
   align: right
@@ -31,4 +31,4 @@ I am currently completing a B.A. in Philosophy at The Chinese University of Hong
 
 Outside of philosophy, I spend most of my time thinking, watching and reading about the [Rams](https://www.therams.com), the [Thunder](https://www.nba.com/thunder/), the [Irish](https://fightingirish.com/sports/football/) and [City](https://www.mancity.com).
 
-Feel Free to get in touch:)
+Feel Free to get in touch :)
