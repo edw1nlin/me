@@ -203,6 +203,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts
+  - _news
+  - _bibliography
+  -  _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -669,12 +673,6 @@ jsonresume:
   - languages
   - interests
   - references
-
-  exclude:
-  - _posts
-  - _news 
-  - _pages/repositories.md
-  - _bibliography
   
 
   
