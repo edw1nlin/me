@@ -672,9 +672,9 @@ jsonresume:
 
   exclude:
   - _posts
-  -  _news 
+  - _news 
   - _pages/repositories.md
-  -  _bibliography
+  - _bibliography
   
 
   
